@@ -1,0 +1,6 @@
+use following commands in order
+
+	make
+	./Main maxweight <input.txt
+
+where "maxweight" is an integer representing desired max weight of bridge
